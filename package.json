@@ -1,0 +1,12 @@
+{
+  "name": "praktekjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draw.js",
+  "scripts": {
+    "start": "node draw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "russel",
+  "license": "ISC"
+}
